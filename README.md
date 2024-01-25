@@ -19,3 +19,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&layout=compact&langs_count=25&title_color=ff6700&text_color=ffffff&bg_color=111111&hide_border=false)](https://github.com/MuhammedErdin/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammedErdin&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
+</picture>
+
+

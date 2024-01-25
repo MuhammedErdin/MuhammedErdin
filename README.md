@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+ <a href="https://github.com/MuhammedErdin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%f0%9f%92%ab+Muhammed+Erdin+%e2%9c%a8;%f0%9f%93%9a+Computer+Science+Student+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
-<!--
-**MuhammedErdin/MuhammedErdin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+# 💻 Languages and Tools:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+# Github Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&layout=compact&langs_count=25&title_color=ff6700&text_color=ffffff&bg_color=111111&hide_border=false)](https://github.com/MuhammedErdin/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammedErdin&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)

@@ -18,9 +18,9 @@
 
 # Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&layout=compact&langs_count=25&title_color=ff6700&text_color=ffffff&bg_color=111111&hide_border=false)](https://github.com/MuhammedErdin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&layout=compact&langs_count=25&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false)](https://github.com/MuhammedErdin/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammedErdin&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammedErdin&theme=light&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 

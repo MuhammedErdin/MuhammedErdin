@@ -6,7 +6,7 @@
 
 
 - 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself.
-- 🌱 I’m currently learning C#,Python.
+- 🧠 I’m currently learning C# and Python.
   
 # 💻 Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)

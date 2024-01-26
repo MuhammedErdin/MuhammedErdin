@@ -16,7 +16,7 @@
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-# Github Stats:
+# ⚡Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&layout=compact&langs_count=25&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false)](https://github.com/MuhammedErdin/github-readme-stats)
 
@@ -31,13 +31,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
 </picture>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-MuhammedErdin.vercel.app/?user=MuhammedErdin&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-MuhammedErdin.vercel.app/api?username=MuhammedErdin&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-MuhammedErdin.vercel.app/api/top-langs/?username=MuhammedErdin&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>

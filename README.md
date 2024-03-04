@@ -4,9 +4,14 @@
  </a>
 </div>
 
-
-- 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself.
+- 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself. 
 - 🧠 I’m learning C# and Python.
+
+<div align="left">
+
+![2](https://github.com/MuhammedErdin/MuhammedErdin/assets/157478392/b51cb96a-63ca-4ac0-911d-b478fd59feb0)
+
+</div>
   
 # 💻 Languages-Tools:
 
@@ -24,9 +29,6 @@
 <a href="http://www.github.com/MuhammedErdin"><img src="https://github-readme-stats.vercel.app/api?username=MuhammedErdin&show_icons=true&hide=prs,issues,contribs&title_color=460080&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="MuhammedErdin's GitHub stats" /></a></p><p align="center">
 <a href="http://www.github.com/MuhammedErdin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedErdin&stroke=460080&background=000000&ring=460080&fire=460080&currStreakNum=ffffff&currStreakLabel=460080&sideNums=ffffff&sideLabels=460080&dates=ffffff&hide_border=true" /></a>
 </p>
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake-dark.svg">

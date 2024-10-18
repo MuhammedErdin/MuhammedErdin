@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself. 
-- 🧠 I’m learning C# and Python.
+- 🧠 I’m learning C#.
 
 <div align="left">
 

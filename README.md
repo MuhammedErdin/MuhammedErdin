@@ -4,8 +4,9 @@
  </a>
 </div>
 
-- 🔭 I am currently studying at 9 Eylül University, Department of Computer Science and improving myself. 
-- 🧠 I’m learning C#.
+- 🎓 I’m a Computer Science student at Dokuz Eylül University, with a focus on backend development.  
+- 💻 I’m currently learning C# and Python, and building small projects to strengthen my understanding of backend systems.  
+- ⚙️ I’m gaining experience with the .NET framework for C# and FastAPI framework for Python, especially in REST API development and service structuring.
 
 <div align="left">
 
@@ -16,10 +17,14 @@
 # 💻 Languages-Tools:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 # ⚡Github Stats:
 

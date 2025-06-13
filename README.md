@@ -1,39 +1,53 @@
 <div align="center">
- <a href="https://github.com/MuhammedErdin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%f0%9f%92%ab+Muhammed+Erdin+%e2%9c%a8;%f0%9f%93%9a+Computer+Science+Student+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
- </a>
+  <a href="https://github.com/MuhammedErdin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=💫+Muhammed+Erdin+✨;📚+Computer+Science+Student+💻;Welcome+To+My+Profile+👀" alt="Typing SVG" />
+  </a>
 </div>
 
-- 🎓 I’m a Computer Science student at Dokuz Eylül University, with a focus on backend development.  
-- 💻 I’m currently learning C# and Python, and building small projects to strengthen my understanding of backend systems.  
-- ⚙️ I’m gaining experience with the .NET framework for C# and FastAPI framework for Python, especially in REST API development and service structuring.
+---
 
-<div align="left">
+### 👋 Hi, I'm Muhammed Erdin
 
-![2](https://github.com/MuhammedErdin/MuhammedErdin/assets/157478392/b51cb96a-63ca-4ac0-911d-b478fd59feb0)
+- 🎓 Computer Science student at **Dokuz Eylül University**
+- 💻 Passionate about **backend development** using **C#** and **Python**
+- ⚙️ Hands-on with **.NET** (C#) and **FastAPI** (Python) frameworks  
+- 🌱 Actively building small projects to deepen my knowledge of **REST APIs** and **backend architecture**
 
+<div align="center">
+  <img src="https://github.com/MuhammedErdin/MuhammedErdin/assets/157478392/b51cb96a-63ca-4ac0-911d-b478fd59feb0" alt="Banner Image" />
 </div>
-  
-# 💻 Languages-Tools:
+
+---
+
+### 💻 Languages & Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
-# ⚡Github Stats:
+### ⚡ GitHub Stats
 
 <p align="center">
-<a href="https://github.com/MuhammedErdin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&langs_count=10&title_color=460080&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p><p align="center">
-<a href="http://www.github.com/MuhammedErdin"><img src="https://github-readme-stats.vercel.app/api?username=MuhammedErdin&show_icons=true&hide=prs,issues,contribs&title_color=460080&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="MuhammedErdin's GitHub stats" /></a></p><p align="center">
-<a href="http://www.github.com/MuhammedErdin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedErdin&stroke=460080&background=000000&ring=460080&fire=460080&currStreakNum=ffffff&currStreakLabel=460080&sideNums=ffffff&sideLabels=460080&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/MuhammedErdin">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedErdin&langs_count=10&title_color=460080&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/MuhammedErdin">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuhammedErdin&show_icons=true&hide=prs,issues,contribs&title_color=460080&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  </a>
+
+---
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MuhammedErdin/MuhammedErdin/output/github-contribution-grid-snake.svg">
 </picture>
-
